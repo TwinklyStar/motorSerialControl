@@ -4,7 +4,7 @@ This programm communiates the Arduino UNO using serial communication. Open the s
 
 Set the Baud rate to 9600, use LF line ending (\n) with every command sent.
 
-<img src="./example.jpg" width=500>
+<img src="./example.jpg" width=800>
 
 ## System Connection
 <img src="./connection.jpeg" width=500>
