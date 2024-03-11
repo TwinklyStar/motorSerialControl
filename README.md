@@ -7,7 +7,14 @@ Set the Baud rate to 9600, use LF line ending (\n) with every command sent.
 <img src="./example.jpg" width=800>
 
 ## System Connection
+<img src="./connector.jpg" width=300>
+<img src="./MotorConnector.png" width=100>
+
+<img src="./Driver.jpg" width=300>
+
 <img src="./connection.jpeg" width=500>
+
+Arduino sends the control signal to the motor driver, then the driver drives the motor with larger current.
 
 ## SET command
 Set the parameter of the motor
